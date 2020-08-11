@@ -59,7 +59,7 @@ body{
     border:10px solid white;
 
     /* background-image: url("https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?cs=srgb&dl=face-facial-hair-fine-looking-guy-614810.jpg&fm=jpg"); */
-    background-image: url("profile.jpeg");
+    background-image: url("images/profile.jpeg");
     background-size: 120%;
     background-repeat: no-repeat;
 
@@ -272,7 +272,7 @@ body{
         to bottom,
         rgb(0, 0, 0,0.1),
         rgba(0, 0, 0)
-      ),url("appdev.jpg");
+      ),url("images/appdev.jpg");
 
     background-size: cover;
 
